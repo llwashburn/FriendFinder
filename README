@@ -6,7 +6,7 @@ This fun full stack development application uses a ten question survey to compar
 the server. When the user completes the survey and hits submit; the user score values are compared to the stored data and they are returned a friend match.
 
 Demo
-Friend Finder is deployed to Heroku. 
+Friend Finder is deployed to Heroku. https://friendfinderllwashburn.herokuapp.com/
 
 Installation
 To install the application follow the instructions below:
