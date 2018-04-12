@@ -26,8 +26,8 @@ app.use(bodyParser.text()); //explain this
 //ROUTER================================================================================
 //include the route files in our server
 //include the api route first bc that's  where we are pulling the data to display in the html pages
-require('./app/Routing/apiRoutes.js')(app);
-require("./app/Routing/htmlRoutes.js")(app);
+require('./App/Routing/apiRoutes.js')(app);
+require("./App/Routing/htmlRoutes.js")(app);
 
 
 //SET UP LISTENER========================================================================
