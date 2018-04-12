@@ -30,7 +30,7 @@ var friendsArray = [{
     {
         name: "Hulk",
         photo: "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fewedit.files.wordpress.com%2F2018%2F01%2Fthe-hulk.jpg",
-        scores: [1, 3, 3, 3, 4, 5, 3, 2, 1, 1]
+        scores: [1, 1, 1, 1, 1, 1, 3, 2, 1, 1]
     }
 ];
 
