@@ -1,3 +1,10 @@
+
+Friend Finder- Node and Express Servers
+
+About
+This fun full stack development application uses a ten question survey to compare user responses to existing friend data stored on
+the server. When the user completes the survey and hits submit; the user score values are compared to the stored data and they are returned a friend match.
+
 Demo
 Friend Finder is deployed to Heroku. 
 
